@@ -9,3 +9,6 @@
 <li> CSS </li>
 <li> JAVASCRIPT </li>
 <li> SCSS </li>
+
+Demonstração de Como Ficou o Carrossel:
+<img src="resultado.png" alt="resultado do Carrossel">
